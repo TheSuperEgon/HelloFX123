@@ -1,0 +1,4 @@
+idea. //for undgå personlige intelliJ indstillinger bliver pushet
+*.iml
+target
+out
